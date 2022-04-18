@@ -1,0 +1,2 @@
+# example
+chef-go examples.
